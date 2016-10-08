@@ -1,6 +1,6 @@
 [Sinatra MVC Skeleton Reference](https://github.com/kaydenwilliams7/sinatra-mvc-skeleton)
 
----------------------------------
+----
 
 # Overview
 
@@ -22,7 +22,7 @@ Memorizing these will be helpful, especially when we get to rails.
 
 Build the skeleton of each seven routes.
 
-### Some notes:
+## Some notes:
 
 * Controllers are for passing information to the view.
   * The controller doesn't do anything except pass info from view to model, and vice versa. It's just a connector! There shouldn't be any real computation or logic inside of the controller.
