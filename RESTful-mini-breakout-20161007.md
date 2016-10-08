@@ -1,5 +1,7 @@
 [Sinatra MVC Skeleton Reference](https://github.com/kaydenwilliams7/sinatra-mvc-skeleton)
 
+---------------------------------
+
 # Overview
 
 ## First thing to do when starting a file:
