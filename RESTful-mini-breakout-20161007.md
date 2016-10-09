@@ -1,4 +1,4 @@
-[Sinatra MVC Skeleton Reference](https://github.com/kaydenwilliams7/sinatra-mvc-skeleton)
+[Sinatra MVC Skeleton Reference](https://github.com/parkyngj/sinatra-mvc-skeleton)
 
 ----
 
