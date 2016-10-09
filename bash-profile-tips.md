@@ -1,3 +1,7 @@
+[Seba's bash profile](https://gist.github.com/sebabelmar/5efd9c4b2cc8a3879a5ceadc8afb7194#file--gitconfig)
+
+----
+
 ```bash
 ## Git aliases
 
