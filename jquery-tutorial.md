@@ -1,5 +1,10 @@
 **WILL EDIT AND FORMAT LATER -Sally + Jeff**
 
+----
+----
+----
+----
+
 # Level 1: Intro to jQuery
 
 ### to select all text inside of a tag:
