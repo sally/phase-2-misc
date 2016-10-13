@@ -42,7 +42,7 @@ You'll be using the command from step 5, `git push heroku <BRANCHNAME>` to push 
 
 The following are some comments about commands involving the database on Heroku.
 
-You won’t ever have to run be `rake db:create` on Heroku. Your database always persists, you can only empty it out and not destroy it as far as I know.
+You won’t ever have to run be `rake db:create` on Heroku. Your database always persists, you can only empty it out and put things in, as far as I know.
 
 * migrating your database: `heroku run rake db:migrate`
 
