@@ -66,6 +66,6 @@ Thanks Max, Seba, Michael, and Todd for helping me deploy.
 
 Referenced:
 
-* [Deplying With Git](https://devcenter.heroku.com/articles/git) article on the Heroku Dev Center website
+* [Deploying With Git](https://devcenter.heroku.com/articles/git) article on the Heroku Dev Center website
 * [Stackoverflow Article](http://stackoverflow.com/questions/4820549/how-to-empty-db-in-heroku) on how to empty the Heroku database
 
