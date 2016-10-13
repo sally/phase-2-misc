@@ -28,7 +28,7 @@ There are several gems in the above that are included for ease of use, but are n
 
 `git push heroku <BRANCHNAME>` (BRANCHNAME will likely master)
 
-You may run into some warnings here, but you shouldn’t worry as long as they aren’t errors (especially if they are warnings about Bundler, not declaring your Ruby version, or about Profile detection)
+You may run into some warnings here, but you shouldn’t worry as long as they aren’t errors (especially if they are warnings about Bundler, not declaring your Ruby version, or about Procfile detection)
 
 ### Step 6: Run terminal commands to Heroku!
 
