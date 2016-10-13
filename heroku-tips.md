@@ -14,11 +14,15 @@ Clone the repository of your passion project down locally from GH if you havenâ€
 
 `heroku git:remote -a <PASSIONPROJNAME>` (you can confirm success of this step by typing `git remote -v`)
 
+If this doesn't work, try `gem install heroku` and try again.
+
 ### Step 4: Double check your Gemfile
 
 Make sure your Gemfile includes everything [here](https://github.com/parkyngj/sinatra-mvc-skeleton/blob/master/Gemfile).
 
 It doesn't have to be an exact copy. Just make sure the gems you include in your Gemfile is a superset of the one above.
+
+There are several gems in the above that are included for ease of use, but are not essential for a functional application. I would check against it anyway, just to be safe.
 
 ### Step 5: Push to Heroku
 
