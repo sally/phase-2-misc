@@ -34,6 +34,8 @@ To run terminal commands to your deployed app, you must type
 
 For example, to check the Ruby version, you would type `heroku run ruby -v`.
 
+You'll be using the command from step 5, `git push heroku <BRANCHNAME>` to push your work up to Heroku.
+
 ----
 
 # database-related commands
