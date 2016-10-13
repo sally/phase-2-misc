@@ -1,7 +1,5 @@
-**WILL EDIT AND FORMAT LATER -Sally + Jeff**
+**WILL EDIT AND FORMAT REMAINING EXERCISES LATER -Sally + Jeff**
 
-----
-----
 ----
 ----
 
