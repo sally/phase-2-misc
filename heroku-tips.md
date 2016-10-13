@@ -12,7 +12,9 @@ Clone the repository of your passion project down locally from GH if you haven�
 
 ### Step 3: Create a Heroku remote
 
-`heroku git:remote -a <PASSIONPROJNAME>` (you can confirm success of this step by typing `git remote -v`)
+Run `heroku git:remote -a <PASSIONPROJNAME>`, where the last part is gotten from PASSIONPROJNAME.herokuapp.com.
+
+You can confirm success of this step by typing `git remote -v`.
 
 If this doesn't work, try `gem install heroku` and try again.
 
@@ -26,7 +28,7 @@ There are several gems in the above that are included for ease of use, but are n
 
 ### Step 5: Push to Heroku
 
-`git push heroku <BRANCHNAME>` (BRANCHNAME will likely master)
+`git push heroku <BRANCHNAME>` (BRANCHNAME will likely be master)
 
 You may run into some warnings here, but you shouldn’t worry as long as they aren’t errors (especially if they are warnings about Bundler, not declaring your Ruby version, or about Procfile detection)
 
