@@ -58,5 +58,5 @@ end
 
 // DRYing up even more!
 // in index.erb, replace repetitive article code with
-// <%= erb :'partials_posts', layout: false, locals: {post: post} %>
+// <%= erb :'partials/_posts', layout: false, locals: {post: post} %>
 // we need the local here because we need to tell the partial file what the variable 'post' is
