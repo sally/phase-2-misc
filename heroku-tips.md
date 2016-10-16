@@ -32,7 +32,9 @@ There are several gems in the above that are included for ease of use, but are n
 
 You may run into some warnings here, but you shouldn’t worry as long as they aren’t errors (especially if they are warnings about Bundler, not declaring your Ruby version, or about Procfile detection)
 
-### Step 6: Run terminal commands to Heroku!
+----
+
+# running terminal commands to heroku
 
 To run terminal commands to your deployed app, you must type
 
@@ -41,6 +43,8 @@ To run terminal commands to your deployed app, you must type
 For example, to check the Ruby version, you would type `heroku run ruby -v`.
 
 You'll be using the command from step 5, `git push heroku <BRANCHNAME>` to push your work up to Heroku.
+
+Particularly useful: `heroku logs` to display the last 100 lines of your logs. Or to tail the logs in real-time: `heroku logs -t`
 
 ----
 
