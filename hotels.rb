@@ -1,3 +1,9 @@
+## General tips:
+# Do obvious associations first.
+# Do more direct connections/associations first
+# Read RSpec tests written for you to identify what the methods are called before you write them
+# Read ActiveRecord errors - AR is often smart enough that just the error message itself will tell you how to fix it
+
 #########################
 # in app/models/user.rb #
 #########################
