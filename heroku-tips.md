@@ -44,7 +44,7 @@ For example, to check the Ruby version, you would type `heroku run ruby -v`.
 
 You'll be using the command from step 5, `git push heroku <BRANCHNAME>` to push your work up to Heroku.
 
-Particularly useful: `heroku logs` to display the last 100 lines of your logs. Or to tail the logs in real-time: `heroku logs -t`
+Useful: `heroku logs` to display the last 100 lines of your logs. Or to tail the logs in real-time: `heroku logs -t`
 
 ----
 
